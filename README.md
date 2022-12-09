@@ -1,6 +1,6 @@
 ## EmbedRT
 
-EmbedRT represents 
+EmbedRT is a shorthand for Embedded Reactive Tensor, a math processing compiler for x86_64 & ARM based targets. ASIC & FPGA support is also in pipeline. 
 
 
 ### EmbedRT has three components
