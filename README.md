@@ -18,9 +18,4 @@ EmbedRT is a shorthand for Embedded Reactive Tensor, a math processing compiler 
 *  LLVM requires CMake 3.18 to build
 *  For more info look at [LLVM DOCS](https://llvm.org/docs/GettingStarted.html).
 
-
-### How to get started? ###
-
-* Setup & Install LLVM 12.0.
-* Also setup clang , compiler-rt , dragonegg, libcxx, libcxxabi, libunwind, lld, lldb,openmp & polly.
-* LLVM Tutorial for making languages, which can be found [here](https://llvm.org/docs/tutorial/)
+For CUDA setup, check nvidia docs. This might not work with nouveau drivers.
