@@ -12,7 +12,7 @@ EmbedRT is a shorthand for Embedded Reactive Tensor, a math processing compiler 
 ### Requirements ###
 
 *  LLVM 12.0 (Build scripts included in project)
-*  Linux 64 bit, preferable CentOS 7 or Fedora 34+ or Rocky Linux
+*  Linux 64 bit, preferable Fedora 34+ or Rocky Linux
 *  AMD64 ABI. Can be found [here](https://software.intel.com/sites/default/files/article/402129/mpx-linux64-abi.pdf).
 *  C++ 17/20 enabled compiler (>= g++ 11).
 *  LLVM requires CMake 3.18 to build
