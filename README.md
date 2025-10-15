@@ -7,7 +7,7 @@ This project is actively back into the development. Keep a watch here.
 ### EmbedRT has three components
 
 - Utils - A set of highly deterministic high precision timing utilities.
-- Tensor Library - High level algebra and computation library backed by JIT and GPU acceleration.
+- Tensor Library - High level algebra and computation library backed by JIT.
 - Device Library - This supports cross-target compilation for ARM targets.
 
 ### Requirements ###
